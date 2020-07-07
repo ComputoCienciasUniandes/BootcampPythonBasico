@@ -16,7 +16,7 @@
 * [11. Matplotlib](11_matplotlib/00_indice.md)
 * [12. Scipy](12_scipy/00_indice.md)
 * [13. Encontrar el cero de una función](13_ceros_funciones/00_indice.md)
-* [14. Ajustes a funciones (con matrices)](14_ajustes_funciones/00_indice.md)
+* [14. Ajustes a funciones (con scipy)](14_ajustes_funciones/00_indice.md)
 * [15. Método de Euler](15_metodo_euler/00_indice.md)
 
 
