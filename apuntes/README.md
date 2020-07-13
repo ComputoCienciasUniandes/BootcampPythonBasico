@@ -3,9 +3,9 @@
 ## Contenidos
 
 * [0. Generalidades (Leer antes de empezar)](00_generalidades.md)
-* [1. La terminal de Unix. El Intérprete de Python](01_interprete/00_indice.md)
-* [2. Tipos de datos.](02_tipos/00_indice.md)
-* [3. Estructuras de datos. Iteración.](03_estructuras_iteracion/00_indice.md)
+* [1. La terminal de Unix. El Intérprete de Python](01_interprete/README.md)
+* [2. Tipos de datos.](02_tipos/README.md)
+* [3. Estructuras de datos. Iteración.](03_estructuras_iteracion/README.md)
 * [4. Lectura de archivos](04_archivos/00_indice.md)
 * [5. Lógica y flujo de un programa](05_logica/00_indice.md)
 * [6. Funciones](06_funciones/00_indice.md)
