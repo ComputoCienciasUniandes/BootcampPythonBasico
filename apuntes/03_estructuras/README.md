@@ -4,5 +4,5 @@
 # Diccionarios
 [![Diccionarios](http://img.youtube.com/vi/l0hFoPVqhVI/0.jpg)](http://www.youtube.com/watch?v=l0hFoPVqhVI)
 
-# Ejemplo: Cuenta caracteres
-[![Ejemplo: Cuenta caracteres](http://img.youtube.com/vi/VVxL8YpSds4/0.jpg)](http://www.youtube.com/watch?v=VVxL8YpSds4)
+# Ejemplo: Cuenta letras
+[![Ejemplo: Cuenta letras](http://img.youtube.com/vi/VVxL8YpSds4/0.jpg)](http://www.youtube.com/watch?v=VVxL8YpSds4)
