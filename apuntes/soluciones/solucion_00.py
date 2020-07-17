@@ -20,7 +20,7 @@ B = 20200716
 
 A_year = A//10000 # esto saca el año
 A_month =  (A//100)%100 # esto saca el mes 
-A_all_months = 12*A_year + A_month # esta es la cantidad de meses que han pasado desde el 10101
+A_all_months = 12*A_year + A_month # esta es la cantidad de meses que han pasado desde la fecha 0
 
 B_year = B//10000
 B_month =  (B//100)%100
