@@ -50,11 +50,8 @@ def escribe_notas(notas, archivo):
     Si notas es una lista vacia entonces el archivo se abre y cierra de todas maneras.
     """
     f = open(archivo, "w")    
-    try:
-        for n in notas:
-            f.write("{}\n".format(n))
-    except:
-        print("La lista esta vacia, nada que escribir")
+    for n in notas:
+        f.write("{}\n".format(n))
     f.close()
     return 
 
