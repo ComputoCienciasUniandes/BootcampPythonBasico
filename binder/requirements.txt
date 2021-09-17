@@ -4,4 +4,5 @@ vdom
 numpy
 matplotlib
 scipy
+imageio
 jupyterlab_launcher>=0.5.0
